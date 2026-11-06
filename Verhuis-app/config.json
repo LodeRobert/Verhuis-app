@@ -1,1 +1,12 @@
 
+{
+  "name": "Verhuis-app",
+  "version": "1.0.0",
+  "slug": "verhuis-app_addon",
+  "description": "Dit is de add-on voor de verhuis-app.",
+  "arch": ["amd64", "armv7", "aarch64"],
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
